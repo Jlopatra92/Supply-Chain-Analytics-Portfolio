@@ -1,0 +1,8 @@
+criterion_code,criterion_name,group,direction,reported_unit,source_role,reproduction_status
+C1,Qualified-products rate,Product Satisfaction,benefit,ratio,Original paper decision matrix,Entropy local weight reproduced closely
+C2,Product price,Product Satisfaction,cost,thousand dollars,Original paper decision matrix,Entropy local weight reproduced closely
+C3,Market share,Product Satisfaction,benefit,ratio,Original paper decision matrix,Entropy local weight reproduced closely
+C4,Supply capacity,Supply Innovation,benefit,kg/time,Original paper decision matrix,Published local entropy weight not reproduced from displayed data and equations
+C5,New-product development rate,Supply Innovation,benefit,ratio,Original paper decision matrix,Published local entropy weight not reproduced from displayed data and equations
+C6,Delivery time,Service Level,cost,days,Original paper decision matrix,Entropy local weight reproduced closely
+C7,On-time delivery ratio,Service Level,benefit,ratio,Original paper decision matrix,Entropy local weight reproduced closely

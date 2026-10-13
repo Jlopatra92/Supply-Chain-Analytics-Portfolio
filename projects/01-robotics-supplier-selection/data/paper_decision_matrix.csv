@@ -1,0 +1,6 @@
+supplier,C1_qualified_products_rate,C2_product_price,C3_market_share,C4_supply_capacity,C5_new_product_development_rate,C6_delivery_time,C7_on_time_delivery_ratio
+A1,0.95,36,0.19,53,0.73,11,0.93
+A2,0.98,39,0.17,52,0.75,13,0.89
+A3,0.93,33,0.21,57,0.69,11,0.92
+A4,0.91,37,0.23,56,0.77,12,0.87
+A5,0.92,35,0.16,51,0.76,10,0.86
